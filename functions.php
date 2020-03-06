@@ -166,9 +166,6 @@ function skitters_scripts() {
     /*Skip Link Script*/
 	wp_enqueue_script( 'skitters-skip-link-focus-fix', SKITTERS_ASSETS_URI . '/js/skip-link-focus-fix.min.js', array(), '20151215', true );
 
-	/*jQuery Script*/
-    wp_enqueue_script('jquery');
-
     /*BooTstrap Script*/
 	wp_enqueue_script( 'bootstrap', SKITTERS_ASSETS_URI . '/js/bootstrap.min.js', array(), '4.3.1', true );
 
