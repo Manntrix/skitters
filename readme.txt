@@ -4,10 +4,10 @@ Contributors: Manntrix
 Author: Manish Mandal
 Requires at least: 4.5
 Tested up to: 5.3.2
-Stable tag: 1.0.5
+Stable tag: 1.0.6
 Requires PHP: 5.6
 Text Domain: skitters
-Version: 1.0.5
+Version: 1.0.6
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 Tags: blog, news, right-sidebar, custom-background, custom-colors, custom-logo, featured-images, footer-widgets, full-width-template, theme-options, threaded-comments, translation-ready
@@ -94,4 +94,9 @@ Unless otherwise specified, all the theme files, scripts and images including th
 * pot file removed.
 * Removed jquery from functions.php
 * Screenshot image updated.
+
+
+= 1.0.6 - 08 March 2020 =
+* Fixed screenshot size
+
 
